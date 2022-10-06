@@ -1,8 +1,5 @@
 # p1.Brayden_Brown
 
-
-<img src="https://user-images.githubusercontent.com/61167226/194360312-1d2fdd06-e893-4101-b49f-ccbf6d7c4ef2.gif" width="450">
-
 **To get a C, you need to:**
 
 <img src="https://user-images.githubusercontent.com/61167226/194354750-3bdeec16-d5d7-4024-8798-f873ddcc35f5.png" width="175">
@@ -29,3 +26,4 @@ Having good button placement is key because it helps users who are in a hurry fr
 <br />Design a touchscreen. Mine will be the size of the buttons.
 <br /> My design also features a foor pedal for those who cant use their hands at the moment
 ![Screenshot (15)](https://user-images.githubusercontent.com/61167226/194359722-44df3aa4-1ca5-45b0-924d-40c03efd1ca1.png)
+<br /> <img src="https://user-images.githubusercontent.com/61167226/194360312-1d2fdd06-e893-4101-b49f-ccbf6d7c4ef2.gif" width="450">
